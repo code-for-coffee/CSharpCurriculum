@@ -20,7 +20,7 @@ namespace HeyThereHey
       // 7. We're defining a 'variable' (a place in memory)
       // named 'heyThere'. It is asigned a value using '='
       // and that value is "hey there hey"
-      var heyThere = "hey there hey";
+      var heyThere = "hey world hey";
       // 8. we call on the 'Console' class (another blueprint!)
       // to use its ability of 'WriteLine'. Methods accept arguments
       // (such as variables) and do things with them. They accept arguments
