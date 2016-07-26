@@ -3,4 +3,4 @@ Introduction to CS with C# Curriculum
 
 ## Project Structure
 
-<img src="/c#_intro.png" />
+<img src="c#_intro.png" />
